@@ -81,3 +81,7 @@ https://programmers.co.kr/learn/courses/30/lessons/92334
 * 정확성 테스트 : 10초
 
 ## [풀이]
+ 1. id_list를 순회하며 user_info를 초기화 한다. user_info에는 신고한 사용자 리스트(report_user)와 처리 결과 메일을 받은 횟수(count)를 저장한다.
+ 2. report를 순회하며 user_info의 report_user를 업데이트 한다.
+ 3. user_info를 순회하면서 report_user의 크기가 k보다 큰 경우 report_user에 담긴 사용자들의 count를 업데이트 한다.
+ 4. 주어진 id_list의 순서에 따라 count를 찾아 배열을 만든뒤 반환한다.
