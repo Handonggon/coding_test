@@ -5,3 +5,4 @@
 * level 1
   * [신고 결과 받기](/programmers/1level/신고%20결과%20받기/doc.md)
   * [키패드 누르기](/programmers/1level/키패드%20누르기_재윤/doc.md)
+  * [비밀지도](/programmers/1level/비밀지도/doc.md)
