@@ -1,11 +1,13 @@
 def solution(participant, completion):
-    answer = ""
-    for i in completion:
-        participant.remove(i)  
+    
+    dict = {}
+    dict = dict.fromkeys(participant,0)
     for i in participant:
-        if participant[:-1]:
-            answer += i + ','
-        elif participant[-1]:
-            answer += i    
-        
+        dict[i] += 1
+    for people in completion:
+        dict[people] -= 1
+    answer = [k for k, v in dict.items() if v == 1]
+    answer = ",".join(answer)
+    
+
     return answer
