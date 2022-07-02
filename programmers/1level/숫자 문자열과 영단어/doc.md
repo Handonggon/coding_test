@@ -58,4 +58,6 @@ https://programmers.co.kr/learn/courses/30/lessons/81301?language=python3
 입출력 예 #4
 * s에는 영단어로 바뀐 부분이 없습니다.
 ## [풀이]
-1. 
+1. 각 숫자에 해당하는 문자에 대한 맵 또는 사전을 만든다. (이하 표기=NUMBER)
+2. NUMBER를 순회 하면서 주어진 문자열을 replace한다.
+3. 처음 값으로 0이 주어지지 않기때문에 숫자로 변환후 반환한다. 
