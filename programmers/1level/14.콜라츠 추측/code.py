@@ -2,9 +2,13 @@ def solution(num):
     list_n = []
     list_n.append(num)
     for i in list_n:
-        if len(list_n) == 501:
-            return -1
-            break
+        if len(list_n) == 501::
+            if list_n[-1] == 1:
+                return 500
+                break
+            else:
+                return -1
+                break
         else:
             if i == 1:
                 break
