@@ -7,6 +7,7 @@ def solution(n, m):
     cf = []
     lcm = []
     if m % n == 0:
+        return [n,m]
     else:
         if n % 2 == 0: #n이 짝수일 경우
             for i in range(1,int(n/2)+1):
