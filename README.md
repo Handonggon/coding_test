@@ -5,6 +5,6 @@
 
 
 * 5월 5주차(7월 27일)
- * 박재윤 - 124의 나라의 숫자
- *
+ * 박재윤 - [124의 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)
+ * 한동곤 - [단체사진 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/1835)
  *
