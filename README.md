@@ -3,10 +3,9 @@
 ## <img src="https://velog.velcdn.com/images%2Fjesahan%2Fpost%2Fd2c41950-b7ca-45fb-876c-59c7a3ca1f99%2Fimage.png" height="50"/>
 
 + 5월 5주차(8월 1일)
+  * [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052)
   * []()
   * []()
-  * []()
-
 
 + 5월 5주차(7월 27일)
   * [124의 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)
