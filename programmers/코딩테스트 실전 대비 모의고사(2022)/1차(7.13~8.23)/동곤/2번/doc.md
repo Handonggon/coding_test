@@ -25,12 +25,13 @@ XYZ 마트에서는 회원을 대상으로 매일 한 가지 제품을 할인하
 
 #### [입출력 예]
 |want|number|discount|result|
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---|:---:|
 |["banana", "apple", "rice", "pork", "pot"]|[3, 2, 2, 2, 1]|["chicken", "apple", "apple", "banana", "rice", "apple", "pork", "banana", "pork", "rice", "pot", "banana", "apple", "banana"]|3|
 |["apple"]|[10]|["banana", "banana", "banana", "banana", "banana", "banana", "banana", "banana", "banana", "banana"]|0|
 
 ## [입출력 예 설명]
 입출력 예 #1
 * 문제 예시와 같습니다.
+
 입출력 예 #2
 * 사과가 할인하는 날이 없으므로 0을 return 합니다.
