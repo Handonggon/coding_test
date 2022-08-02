@@ -11,7 +11,7 @@ def solution(grid):
             for m in range(M):
                 count = 0
                 while not (visit[r][c] & pow(2, m)):
-                    visit[r][c] += pow(2, m)
+                    visit[r][c] |= (1 << m)
                     [r, c] = [(r + MOVE[m][0]) % H, (c + MOVE[m][1]) % W]
                     m = (m + STATE[grid[r][c]]) % M
                     count += 1
