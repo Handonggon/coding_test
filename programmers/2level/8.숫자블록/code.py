@@ -201,3 +201,44 @@ def solution(begin,end):
 테스트 13 〉	통과 (0.06ms, 203MB)
 테스트 14 〉	통과 (6.00ms, 203MB)
 ------------------------------------------------------
+def block(n):
+    if n == 1:
+        return 0
+    for i in range(2,int(n**(1/2))):
+        if n < i:
+            break
+        mo = n//i
+        if mo > 10000000:
+            continue
+        na = n%i
+        if n != i and na ==0:
+            return mo
+    return 1
+def solution(begin,end):
+    answer = []
+    for i in range(begin,end+1):
+        answer.append(block(i))
+        
+    return answer
+    정확성  테스트
+테스트 1 〉	통과 (0.23ms, 10MB)
+테스트 2 〉	통과 (0.32ms, 10.1MB)
+테스트 3 〉	통과 (0.31ms, 10.1MB)
+테스트 4 〉	통과 (0.18ms, 10.2MB)
+테스트 5 〉	통과 (0.18ms, 10.2MB)
+테스트 6 〉	통과 (0.09ms, 10.2MB)
+테스트 7 〉	통과 (0.43ms, 10.2MB)
+테스트 8 〉	통과 (0.15ms, 10.1MB)
+테스트 9 〉	통과 (0.15ms, 9.98MB)
+테스트 10 〉	통과 (0.45ms, 10.3MB)
+테스트 11 〉	통과 (0.30ms, 10.2MB)
+테스트 12 〉	통과 (0.15ms, 10.2MB)
+테스트 13 〉	통과 (0.11ms, 10.1MB)
+테스트 14 〉	통과 (0.11ms, 10.2MB)
+효율성  테스트
+테스트 1 〉	통과 (759.07ms, 10.4MB)
+테스트 2 〉	통과 (5975.78ms, 10.8MB)
+테스트 3 〉	통과 (5711.89ms, 10.7MB)
+테스트 4 〉	통과 (7266.92ms, 11.1MB)
+테스트 5 〉	통과 (1456.44ms, 10.5MB)
+테스트 6 〉	통과 (1793.79ms, 10.3MB)
