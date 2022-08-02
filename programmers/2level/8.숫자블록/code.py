@@ -149,4 +149,55 @@ def solution(begin,end):
 테스트 12 〉	통과 (5.74ms, 203MB)
 테스트 13 〉	통과 (0.06ms, 203MB)
 테스트 14 〉	통과 (11.91ms, 203MB)
+
+
+list_h = list(range(3,10000000,2))
+def block(n):
+    if n < 20000000: 
+        if n == 1:
+            return 0
+        for i in range(2,(n//2)+3):
+            if n < i:
+                break
+            if n%i != 0:
+                continue
+            else:
+                mo = n//i
+                na = n%i
+                if n != i and na ==0:
+                    return mo
+        return 1
+    else:
+        if n%2 ==0:
+            return 10000000
+        else:
+            for i in list_h:
+                if n%i != 0:
+                    continue
+                else:
+                    mo = n//i
+                    return mo
+            return 1
+
+def solution(begin,end):
+    answer = []
+    for i in range(begin,end+1):
+        answer.append(block(i))
+        
+    return answer
+
+테스트 1 〉	통과 (4.17ms, 203MB)
+테스트 2 〉	통과 (18.57ms, 203MB)
+테스트 3 〉	통과 (13.58ms, 203MB)
+테스트 4 〉	통과 (9.95ms, 203MB)
+테스트 5 〉	통과 (9.59ms, 203MB)
+테스트 6 〉	통과 (2.32ms, 203MB)
+테스트 7 〉	통과 (19.07ms, 203MB)
+테스트 8 〉	통과 (2.48ms, 203MB)
+테스트 9 〉	통과 (13.25ms, 203MB)
+테스트 10 〉	통과 (24.77ms, 203MB)
+테스트 11 〉	통과 (16.74ms, 203MB)
+테스트 12 〉	통과 (5.28ms, 203MB)
+테스트 13 〉	통과 (0.06ms, 203MB)
+테스트 14 〉	통과 (6.00ms, 203MB)
 ------------------------------------------------------
