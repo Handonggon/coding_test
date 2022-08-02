@@ -1,20 +1,20 @@
-MOVE = {'S': [[1, 0, 0], [-1, 0, 1], [0, -1, 2], [0, 1, 3]]
-      , 'L': [[0, -1, 2], [0, 1, 3], [1, 0, 0], [-1, 0, 1]]
-      , 'R': [[0, 1, 3], [0, -1, 2], [-1, 0, 1], [1, 0, 0]]}
+STATE = {'S': 0, 'L': 1, 'R': -1}
+MOVE = [(-1, 0), (0, 1), (1, 0), (0, -1)] #[U, L, D, R]
 
 def solution(grid):
+    [H, W, M] = [len(grid), len(grid[0]), len(MOVE)]
     visit = [[0 for j in range(len(grid[i]))] for i in range(len(grid))]
     
     answer = []
-    for r in range(len(grid)):
-        for c in range(len(grid[r])):
-            for t in range(4): #[U, D, L, R]
+    for r in range(H):
+        for c in range(W):
+            for m in range(M):
                 count = 0
-                while not (visit[r][c] & pow(2, t)):
-                    visit[r][c] += pow(2, t)
-                    r = (len(grid) + r + MOVE[grid[r][c]][t][0]) % len(grid)
-                    c = (len(grid[r]) + c + MOVE[grid[r][c]][t][1]) % len(grid[r])
-                    t = MOVE[grid[r][c]][t][2]
+                while not (visit[r][c] & pow(2, m)):
+                    visit[r][c] += pow(2, m)
+                    [r, c] = [(r + MOVE[m][0]) % H, (c + MOVE[m][1]) % W]
+                    m = (m + STATE[grid[r][c]]) % M
                     count += 1
-                answer.append(count)
-    return answer
+                if(count):
+                    answer.append(count)
+    return sorted(answer)
