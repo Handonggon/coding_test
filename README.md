@@ -4,9 +4,9 @@
 
 
 + 8월 2주차(8월 10일)
-  * 
-  *
-  *
+  * []()
+  * []()
+  * []()
 
 + 8월 1주차(8월 3일)
   * [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052)
