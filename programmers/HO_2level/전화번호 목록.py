@@ -1,15 +1,6 @@
 def solution(phone_book):
-    
-    phone_book = list(map(int, phone_book))
     phone_book.sort()
-    
-    while True:
-        if phone_book:
-            a = phone_book.pop(0)
-            for i in phone_book:
-                if str(a) in str(i):
-                    return False
-        else:
-            break
-            
+    for i in range(len(phone_book)-1):
+        if phone_book[i] == phone_book[i+1][0:len(phone_book[i])]:
+            return False
     return True
