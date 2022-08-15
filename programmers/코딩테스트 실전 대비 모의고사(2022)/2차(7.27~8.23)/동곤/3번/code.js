@@ -1,3 +1,5 @@
+//다익스트라(최소힙)
+
 const INFINITY = 100001;
 
 function solution(n, roads, sources, destination) {
@@ -76,4 +78,29 @@ function dijkstra(start, map) {
         }
     }
     return dist;
+}
+
+
+//BFS(너비우선탐색)
+function solution(n, roads, sources, destination) {
+    let map = Array(n).fill().map(_=>[]);
+    for(let [v, w] of roads) {
+        map[v-1].push(w-1);
+        map[w-1].push(v-1);
+    }
+
+    let answer = Array(n).fill(n);
+    answer[destination-1] = 0;
+    let queue = [];
+    queue.push([destination-1, 0]);
+    while(queue.length) {
+        let [curr, dist] = queue.shift();
+        for(let next of map[curr]) {
+            if(answer[next] > dist+1) {
+                answer[next] = dist+1;
+                queue.push([next, dist+1]);
+            }
+        }
+    }
+    return sources.map(source=>answer[source-1]===n?-1:answer[source-1]);
 }
