@@ -5,14 +5,15 @@ function solution(n, lighthouse) {
         map[w-1].push(v-1);
     }
 
-    function dfs(curr) {
+    function dfs(curr, visited) {
+        visited[curr] = true
         let [p, np] = [1, 0];
         for(let next of map[curr]) {
-            if(curr > next) continue;
-            let [cp, cnp] = dfs(next);
+            if(visited[next]) continue;
+            let [cp, cnp] = dfs(next, visited);
             [p, np] = [p + Math.min(cp, cnp), np + cp];
         }
         return [p, np];
     }
-    return Math.min(...dfs(0));
+    return Math.min(...dfs(0, Array(n).fill(false)));
 }
