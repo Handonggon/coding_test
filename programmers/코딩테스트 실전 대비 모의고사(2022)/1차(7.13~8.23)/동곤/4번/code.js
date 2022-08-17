@@ -8,7 +8,7 @@ function solution(beginning, target) {
             let check = true;
             for(let r = 0; r < beginning.length; r++) {
                 for(let c = 0; c < beginning[r].length; c++) {
-                    if(((Boolean(Math.pow(2, r) & i) ^ Boolean(Math.pow(2, c) & j)) ^ beginning[r][c]) === target[r][c]) continue;
+                    if(((Boolean(1 << r & i) ^ Boolean(1 << c & j)) ^ beginning[r][c]) === target[r][c]) continue;
                     check = false;
                     break;
                 }
