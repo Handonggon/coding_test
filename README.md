@@ -5,7 +5,7 @@
 + 8월 3주차(8월 일)
   * [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
   * [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
-  * []()
+  * [전화번호목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
 
 + 8월 2주차(8월 10일)
   * [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
