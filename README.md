@@ -3,11 +3,11 @@
 ## <img src="https://velog.velcdn.com/images%2Fjesahan%2Fpost%2Fd2c41950-b7ca-45fb-876c-59c7a3ca1f99%2Fimage.png" height="50"/>
 
 + 8월 4주차(8월 24일) [깊이탐색/너비탐색]
-  * 
-  * 
-  * 
-  * 
-  * 
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
 
 + 8월 3주차(8월 17일)
   * [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
