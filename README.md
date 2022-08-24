@@ -3,7 +3,7 @@
 + 8월 4주차(8월 24일) [깊이탐색/너비탐색]
   * [미친 로봇](https://www.acmicpc.net/problem/1405)
   * [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)
-  * []()
+  * [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
   * []()
   * []()
 
