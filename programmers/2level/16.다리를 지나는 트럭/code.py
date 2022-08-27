@@ -1,17 +1,27 @@
-def solution(length, mw, truck):
+from collections import deque
+def solution(bridge_length, weight, tw):
     answer = 0
-    bridge = []
-    truck.reverse()
-    a = truck.pop()
-    bridge.append([a,0])
-    while bridge != []:
-        answer += 1
-        for i in bridge:
-            i[1] += 1
-        while bridge[0][1] == length:
-            bridge = bridge[1:]
-        if sum(bridge)+a >= mw:
-            bridge.append([a,0])
+    count = -1
+    bri = deque([])
+    brw = 0
+    des = []
+    
+    finish = tw
+    tw.reverse()
+    while des!= finish:
+        count += 1
+        if len(bri) > 0:
+            if count - bri[0][1] == bridge_length:
+                a = bri.popleft()
+                brw -= a[1]
+                des.append(a)                
+        b = tw.pop()
+        if brw + b <= weight:
+            bri.append([b,count])
+            brw += b
+        else:
+            tw.append(b)
+        
         
     
-    return answer
+    return count
