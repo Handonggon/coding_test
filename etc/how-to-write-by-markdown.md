@@ -1,6 +1,6 @@
 [공통] 마크다운 markdown 작성법
 
-[](https://dooray.com/htmls/guides/markdown_ko_KR.html)
+[Help](https://dooray.com/htmls/guides/markdown_ko_KR.html)
 
 ======================
 
