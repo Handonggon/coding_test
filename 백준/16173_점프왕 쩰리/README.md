@@ -1,6 +1,6 @@
 ![Alt text](https://d2gd6pc034wcta.cloudfront.net/images/logo@2x.png)
 
-# 미친 로봇
+# 점프왕 쩰리
 
 ## [링크]
 https://www.acmicpc.net/problem/16173
