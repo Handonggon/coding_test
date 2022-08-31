@@ -3,7 +3,7 @@
 + 8월 5주차(8월 31일) [깊이탐색/너비탐색]
   * [점프왕 쩰리](https://www.acmicpc.net/problem/16173)
   * [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)
-  * []()
+  * [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
   * []()
 
 
