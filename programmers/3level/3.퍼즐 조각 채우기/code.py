@@ -110,7 +110,7 @@ def solution(game_board, table):
                     break
         count = 0
         figure = []
-        while count != 4:
+        while count != 4: #도형 돌리기 (차원이 바뀜)
             a = find
             figure.append(a)
             count += 1
