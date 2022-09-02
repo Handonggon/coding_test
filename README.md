@@ -1,11 +1,22 @@
 # 코딩테스트
 
++ 9월 1주차(9월 7일) [이분 탐색]
+  * [나무 자르기](https://www.acmicpc.net/problem/2805)
+  * []()
+  * []()
+  * []()
+
++ 8월 5주차(8월 31일) [깊이탐색/너비탐색]
+  * [점프왕 쩰리](https://www.acmicpc.net/problem/16173)
+  * [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)
+  * [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
+  * [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)
+
 + 8월 5주차(8월 31일) [깊이탐색/너비탐색]
   * [점프왕 쩰리](https://www.acmicpc.net/problem/16173)
   * [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)
   * [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
   * []()
-
 
 + 8월 4주차(8월 24일) [깊이탐색/너비탐색]
   * [미친 로봇](https://www.acmicpc.net/problem/1405)
