@@ -4,6 +4,8 @@ def solution(n, times):
     tm = 1
     for i in times: #일이 같이 끝나는 시간 찾기
         tm *= i
+        while tm%2 == 0: #최소공배수 찾기
+            tm = int(tm/2)
     work = []
     for i in times: #일이 같이 끝날때 얼마나 처리했는지
         work.append(int(tm/i))
