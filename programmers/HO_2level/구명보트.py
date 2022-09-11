@@ -1,8 +1,7 @@
 from collections import deque
 
 def solution(people, limit):
-    a = sorted(people)
-    a = deque(a)
+    a = deque(sorted(people))
     res = 0
     
     while True:
@@ -19,6 +18,3 @@ def solution(people, limit):
         else: break
             
     return res    
-        
-
-    
