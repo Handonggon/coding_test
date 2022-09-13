@@ -1,5 +1,11 @@
 # 코딩테스트
 
++ 9월 2주차(9월 14일) [이분 탐색]
+  * []()
+  * []()
+  * []()
+  * []()
+
 + 9월 1주차(9월 7일) [이분 탐색]
   * [나무 자르기](https://www.acmicpc.net/problem/2805)
   * [입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
