@@ -2,7 +2,7 @@
 
 + 9월 2주차(9월 14일) [이분 탐색]
   * [두 수의 합](https://www.acmicpc.net/problem/9024)
-  * []()
+  * [입국 심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238),[금과 은 운반하기](https://school.programmers.co.kr/learn/courses/30/lessons/86053)
   * []()
   * []()
 
