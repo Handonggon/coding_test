@@ -66,3 +66,30 @@ def solution(n, times):
         for i in range(len(almost)):
             almost[i] += times[i]
         return(min(almost))
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+#이분탐색 1차 실패
+def solution(n, times):
+    time  = [0,10000000000000000000] # 최대치
+    while time != [0,0]:
+        if time[0] == time[1]:
+            return time[0]
+        count = 0 
+        a = time[0] + ((time[1]-time[0])//2)
+        for i in times:
+            count += int(a/i)
+        if count > n:
+            time[1] -= ((time[1]-time[0])//2) +1
+        elif count < n:
+            time[0] += ((time[1]-time[0])//2) +1
+        else:
+            if time[1]-time[0] < 10:
+                time[1] -= ((time[1]-time[0])//2) +1
+            else:
+                count = 0
+                while time[1]-time[0] != 0:
+                    for i in times:
+                        count += time[0]
+                    if count == n:
+                        return time[0]
+                    else:
+                        time[0] += 1
