@@ -1,0 +1,6 @@
+from itertools import *
+def solution(orders, course):
+    dict = {}
+    answer = []
+    combinations('ABCD', 2)
+    return answer
