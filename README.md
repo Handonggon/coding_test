@@ -1,10 +1,15 @@
 # 코딩테스트
 
++ 9월 3주차(9월 21일)
+  * [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)
+  * []()
+  * []()
+  * []()
+
 + 9월 2주차(9월 14일) [이분 탐색]
   * [두 수의 합](https://www.acmicpc.net/problem/9024)
   * [입국 심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
   * [금과 은 운반하기](https://school.programmers.co.kr/learn/courses/30/lessons/86053)
-  * [응애]
 
 + 9월 1주차(9월 7일) [이분 탐색]
   * [나무 자르기](https://www.acmicpc.net/problem/2805)
