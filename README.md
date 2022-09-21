@@ -1,8 +1,8 @@
 # 코딩테스트
 
-+ 9월 3주차(9월 21일)
++ 9월 3주차(9월 22일)
   * [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)
-  * []()
+  * [[카카오 인턴] 수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)
   * []()
   * []()
 
