@@ -4,7 +4,7 @@
   * [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)
   * [[카카오 인턴] 수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)
   * [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
-  * []()
+  * [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)
 
 + 9월 2주차(9월 14일) [이분 탐색]
   * [두 수의 합](https://www.acmicpc.net/problem/9024)
