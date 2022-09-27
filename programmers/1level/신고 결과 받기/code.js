@@ -20,3 +20,4 @@ function solution(id_list, reports, k) {
     return Array(id_list.length).fill()
                                 .map((_,index)=>idOfReport[id_list[index]].count);
 }
+
