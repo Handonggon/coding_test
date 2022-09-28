@@ -1,10 +1,14 @@
 # 코딩테스트
++ 10월 1주차(10월 5일)
+  * [내 학점을 구해줘](https://www.acmicpc.net/problem/10984) - 브론즈 III
+  * [게시판](https://www.acmicpc.net/problem/3063) - 실버 III
+  * [하와와 대학생쨩 하와이로 가는 거시와요~](https://www.acmicpc.net/problem/16456) - 실버 I
+  * [정렬](https://www.acmicpc.net/problem/17432) - 골드 III
+  * [전파와 병합 2](https://www.acmicpc.net/problem/23302) - 골드 IV
+
 + 9월 4주차(9월 28일)
   * [호텔](https://www.acmicpc.net/problem/1106)
   * [110 옮기기](https://school.programmers.co.kr/learn/courses/30/lessons/77886)
-  * []()
-  * []()
-
 
 + 9월 3주차(9월 22일)
   * [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)
