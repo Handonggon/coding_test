@@ -1,4 +1,11 @@
 # 코딩테스트
++ 10월 2주차(10월 12일)
+  * [교수님 그림이 깨지는데요?](https://www.acmicpc.net/problem/20205) - 브론즈 I
+  * [4번째 점](https://www.acmicpc.net/problem/1894) - 브론즈 I
+  * [가희와 무궁화호](https://www.acmicpc.net/problem/24336) - 실버 I
+  * [연료 채우기](https://www.acmicpc.net/problem/1826) - 골드 III
+  * [사분면](https://www.acmicpc.net/problem/1891) - 골드 IV
+
 + 10월 1주차(10월 5일)
   * [내 학점을 구해줘](https://www.acmicpc.net/problem/10984) - 브론즈 III
   * [게시판](https://www.acmicpc.net/problem/3063) - 실버 III
