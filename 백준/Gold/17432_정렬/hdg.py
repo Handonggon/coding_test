@@ -17,4 +17,18 @@ for _ in range(T):
             a[j] = number
             number += 1
 
-    print(a)
+    print(*a, sep=' ')
+
+#############################################
+    
+    cnt = 0
+    for j in range(1, N):
+        x = a[j]
+        i = j - 1
+        while i >= 0 and a[i] > x:
+            cnt = cnt + 1
+            a[i+1] = a[i]
+            i = i-1
+        a[i+1] = x
+        
+    print(cnt)
