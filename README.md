@@ -1,4 +1,12 @@
 # 코딩테스트
+
++ 10월 3주차(10월 19일)
+  * [조옮김](https://www.acmicpc.net/problem/4732) - 브론즈 I
+  * [종이자르기](https://www.acmicpc.net/problem/2628) - 실버 V
+  * [기타리스트](https://www.acmicpc.net/problem/1495) - 실버 I
+  * [휴게소 세우기](https://www.acmicpc.net/problem/1477) - 골드 IV
+  * [냅색문제](https://www.acmicpc.net/problem/1450) - 골드 I
+  
 + 10월 2주차(10월 12일)
   * [교수님 그림이 깨지는데요?](https://www.acmicpc.net/problem/20205) - 브론즈 I
   * [4번째 점](https://www.acmicpc.net/problem/1894) - 브론즈 I
