@@ -1,26 +1,28 @@
 from collections import deque
+import pstats
 N,S,M = input().split(" ")
 list_v = deque(input().split(" "))
-list_n = deque([int(S)])
+list_n = ["True" for i in range(int(M)+1)]
+list_n[int(S)] = "False"
 while list_v != deque([]):
     a = int(list_v.popleft())
-    count = len(list_n)
-    if count == 0:
+    count = 0
+    list_c = ["True" for i in range(int(M)+1)]
+    while count != int(M)+1:
+        if list_n[count] == "True":
+            pass
+        else:
+            if 0<=count+a<=int(M):
+                list_c[count+a] = "False"
+            if 0<=count-a<=int(M):
+                list_c[count-a] = "False"
+        count += 1
+    list_n = list_c.copy()
+for i in range(len(list_n)-1,-1,-1):
+    if list_n[i] == "False":
+        print(i)
         break
-    while count != 0:
-        b = list_n.popleft()
-        c = b+a
-        if 0<=c<=int(M):
-            list_n.append(c)
-        else:
-            pass
-        c = b-a
-        if 0<=c<=int(M):
-            list_n.append(c)
-        else:
-            pass
-        count -= 1
-if len(list_n) == 0:
-    print(-1)
-else :
-    print(max(list_n))
+    else:
+        pass
+    if i == 0:
+        print(-1)
