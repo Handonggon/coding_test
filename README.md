@@ -5,7 +5,7 @@
   * [지뢰 찾기](https://www.acmicpc.net/problem/1996) - 실버
   * [신입 사원](https://www.acmicpc.net/problem/1946) - 실버
   * [강의실](https://www.acmicpc.net/problem/1374) - 골드
-  * [원숭이 타워](https://www.acmicpc.net/problem/1607) - 골드
+  * [원숭이 타워](https://www.acmicpc.net/problem/1607) / [하노이의 네 탑](https://www.acmicpc.net/problem/9942) - 골드
 
 + 10월 3주차(10월 19일)
   * [조옮김](https://www.acmicpc.net/problem/4732) - 브론즈 I
