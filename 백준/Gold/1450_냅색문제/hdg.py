@@ -10,6 +10,24 @@ info = list(map(int, input().split()))
 #[N, C] = [30, 30] #1073741824
 #info = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
 
+# 다이나믹 프로그래밍 - 메모리 초과(C = 10^9)
+
+dp = [[0 for _ in range(C+1)] for _ in range(N+1)]
+dp[0][0] = 1
+
+for seq in range(1, len(info)):
+    for weight in range(len(dp[seq-1])):
+        count = dp[seq-1][weight]
+        if count > 0:
+            dp[seq][weight] += count
+            if weight + info[seq] <= C:
+                dp[seq][weight + info[seq]] += count
+
+print(sum(dp[N]))
+
+
+# 이분탐색
+
 def combination(element):
     stack = [[0, 0]]
 

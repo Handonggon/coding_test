@@ -1,0 +1,15 @@
+import heapq
+
+N = int(input())
+info = [list(map(int, input().split())) for _ in range(N)]
+
+answer = 0
+heap = []
+for [number, start, end] in sorted(info, key=lambda x: x[1]):
+    while heap and start >= heap[0]:
+        heapq.heappop(heap)
+
+    heapq.heappush(heap, end)
+    answer = max(answer, len(heap))
+
+print(answer)
