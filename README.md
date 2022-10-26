@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 11월 1주차(11월 2일)
+  * [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) - 브론즈
+  * [후위 표기식2](https://www.acmicpc.net/problem/1935) - 실버
+  * [점수따먹기](https://www.acmicpc.net/problem/1749) - 골드
+  * [팰린드롬 분할](https://www.acmicpc.net/problem/1509) - 골드
+  * [버블 소트](https://www.acmicpc.net/problem/1517) - 플래티넘
+
 + 10월 4주차(10월 26일)
   * [트로피 진열](https://www.acmicpc.net/problem/1668) - 브론즈
   * [지뢰 찾기](https://www.acmicpc.net/problem/1996) - 실버
