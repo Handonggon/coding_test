@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 11월 2주차(11월 9일)
+  * [듣보잡](https://www.acmicpc.net/problem/1764) - 실버
+  * [숫자놀이](https://www.acmicpc.net/problem/1679) - 실버
+  * [원숭이 키우기](https://www.acmicpc.net/problem/1423) - 골드
+  * [석판](https://www.acmicpc.net/problem/1691) - 골드
+  * [수 묶기](https://www.acmicpc.net/problem/1852) - 플래티넘
+
 + 11월 1주차(11월 2일)
   * [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) - 브론즈
   * [후위 표기식2](https://www.acmicpc.net/problem/1935) - 실버
