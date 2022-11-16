@@ -1,6 +1,13 @@
 # 코딩테스트
 
-+ 11월 2주차(11월 9일)
++ 11월 2주차(11월 16일)
+  * [수들의 합 2](https://www.acmicpc.net/problem/2003) - 실버
+  * [상자넣기](https://www.acmicpc.net/problem/1965) - 실버
+  * [멍멍이 쓰다듬기](https://www.acmicpc.net/problem/1669) - 골드
+  * [다솜이의 신발가게](https://www.acmicpc.net/problem/1661) - 골드
+  * [교차개수세기](https://www.acmicpc.net/problem/1615) - 골드
+
++ 11월 2주차(11월 16일)
   * [듣보잡](https://www.acmicpc.net/problem/1764) - 실버
   * [숫자놀이](https://www.acmicpc.net/problem/1679) - 실버
   * [원숭이 키우기](https://www.acmicpc.net/problem/1423) - 골드
