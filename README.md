@@ -1,6 +1,6 @@
 # 코딩테스트
 
-+ 11월 2주차(11월 16일)
++ 11월 2주차(11월 23일)
   * [수들의 합 2](https://www.acmicpc.net/problem/2003) - 실버
   * [상자넣기](https://www.acmicpc.net/problem/1965) - 실버
   * [멍멍이 쓰다듬기](https://www.acmicpc.net/problem/1669) - 골드
