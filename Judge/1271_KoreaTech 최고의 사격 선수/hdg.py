@@ -1,32 +1,44 @@
+import sys
+input = sys.stdin.readline
+
 N = int(input())
 info = [list(map(int, input().split())) for _ in range(N)]
 
-#N = 5
-#info = [[-3, -3], [2, 3], [-2, -2], [5, 7], [-1, -1]]
+#N = 9
+#info = [[-3, -3], [2, 3], [-2, -2], [5, 7], [-1, -1], [-1, -1], [0, -1], [-1, 0], [10, 10]]
 
-answer = [[0, 0, 0, 0] for _ in range(N)]
+def gcd(a, b):
+    if b == 0:
+        return a
+    return gcd(b, a % b)
 
+answer = 0
 for i in range(N):
-    for j in range(i+1, N):
-        dy = info[j][0] - info[i][0]
-        dx = info[j][1] - info[i][1]
-
+    twins = 0
+    table = {}
+    for j in range(i, N):
+        dx = info[j][0] - info[i][0]
+        dy = info[j][1] - info[i][1]
         if dx == 0 and dy == 0:
-            answer[i] = map(lambda x: x+1, answer[i])
-            answer[j] = map(lambda x: x+1, answer[j])
+            twins += 1
+            continue
+        
+        if dx == 0:
+            key = 'V'
         elif dy == 0:
-            answer[i][0] += 1
-            answer[j][0] += 1
-        elif dx == 0:
-            answer[i][1] += 1
-            answer[j][1] += 1
+            key = 'H'
         else:
-            a = dy / dx
-            if a == 1:
-                answer[i][2] += 1
-                answer[j][2] += 1
-            elif a == -1:
-                answer[i][3] += 1
-                answer[j][3] += 1
+            key = ''
+            r = gcd(abs(dy), abs(dx))
+            if (dy < 0) ^ (dx < 0) :
+                key += '-'
+            key += str(abs(dy // r)) + '/' + str(abs(dx // r))
 
-print(max(list(map(max, answer)))+1)
+        if key not in table:
+            table[key] = 0
+        table[key] += 1
+    
+    answer = max(twins, answer)
+    if table:
+        answer = max(max(table.values()) + twins, answer)
+print(answer)
