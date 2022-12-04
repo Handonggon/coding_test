@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 12월 1주차(12월 7일)
+  * [수 이어 쓰기](https://www.acmicpc.net/problem/1515) - 실버
+  * [지뢰](https://www.acmicpc.net/problem/2232) - 실버
+  * [레이저빔은 어디로](https://www.acmicpc.net/problem/3709) - 실버
+  * [숌 사이 수열](https://www.acmicpc.net/problem/1469) - 골드
+  * [행렬 찾기](https://www.acmicpc.net/problem/1687) - 골드
+
 + 11월 5주차(11월 23일)
   * [미터계](https://www.acmicpc.net/problem/1862) - 실버
   * [박스포장](https://www.acmicpc.net/problem/1997) - 실버
