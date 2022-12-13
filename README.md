@@ -1,6 +1,6 @@
 # 코딩테스트
 
-+ 12월 1주차(12월 7일)
++ 12월 2주차(12월 14일)
   * [수 이어 쓰기](https://www.acmicpc.net/problem/1515) - 실버
   * [지뢰](https://www.acmicpc.net/problem/2232) - 실버
   * [레이저빔은 어디로](https://www.acmicpc.net/problem/3709) - 실버
