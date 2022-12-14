@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 12월 3주차(12월 21일)
+  * [캠프가는 영식](https://www.acmicpc.net/problem/1590) - 실버
+  * [제곱수의 합](https://www.acmicpc.net/problem/1699) - 실버
+  * [극장 좌석](https://www.acmicpc.net/problem/2302) - 실버
+  * [발전소 설치](https://www.acmicpc.net/problem/1277) - 골드
+  * [새 앨범](https://www.acmicpc.net/problem/1424) - 골드
+
 + 12월 2주차(12월 14일)
   * [수 이어 쓰기](https://www.acmicpc.net/problem/1515) - 실버
   * [지뢰](https://www.acmicpc.net/problem/2232) - 실버
