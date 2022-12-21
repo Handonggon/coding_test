@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 12월 4주차(12월 28일)
+  * [시계](https://www.acmicpc.net/problem/2082) - 실버
+  * [원형 댄스](https://www.acmicpc.net/problem/2117) - 실버
+  * [지름길](https://www.acmicpc.net/problem/1446) - 실버
+  * [내리막 길](https://www.acmicpc.net/problem/1520) - 골드
+  * [오민식의 고민](https://www.acmicpc.net/problem/1219) - 골드
+
 + 12월 3주차(12월 21일)
   * [캠프가는 영식](https://www.acmicpc.net/problem/1590) - 실버
   * [제곱수의 합](https://www.acmicpc.net/problem/1699) - 실버
