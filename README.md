@@ -1,5 +1,10 @@
 # 코딩테스트
 
++ 1월 1주차(1월 4일)
+  * [공통 순열](https://www.acmicpc.net/problem/1622) - 실버
+  * [잃어버린 괄호](https://www.acmicpc.net/problem/1541) - 실버
+  * [개근상](https://www.acmicpc.net/problem/1563) - 골드
+
 + 12월 4주차(12월 28일)
   * [시계](https://www.acmicpc.net/problem/2082) - 실버
   * [원형 댄스](https://www.acmicpc.net/problem/2117) - 실버
