@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 1월 2주차(1월 11일)
+  * [회전하는 큐](https://www.acmicpc.net/problem/1021) - 실버
+  * [촌수계산](https://www.acmicpc.net/problem/2644) - 실버
+  * [추월](https://www.acmicpc.net/problem/2002) - 실버
+  * [덜컹덜컹](https://www.acmicpc.net/problem/1656) - 골드
+  * [원숭이 땅을 옮기다](https://www.acmicpc.net/problem/1425) - 골드
+
 + 1월 1주차(1월 4일)
   * [공통 순열](https://www.acmicpc.net/problem/1622) - 실버
   * [잃어버린 괄호](https://www.acmicpc.net/problem/1541) - 실버
