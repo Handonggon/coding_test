@@ -21,4 +21,3 @@ for c in s:
 print(reduce(lambda acc, cur: acc - cur, stack))
 
 # print(reduce(lambda acc, cur: acc - cur, (map(lambda exp: reduce(lambda acc, cur: acc + cur,list(map(int, exp.split("+")))), input().rstrip().split('-')))))
-
