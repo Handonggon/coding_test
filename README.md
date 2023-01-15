@@ -1,5 +1,11 @@
 # 코딩테스트
 
+
++ 1월 3주차(1월 18일)
+  * [사과 빨리 먹기](https://www.acmicpc.net/problem/26170) - 실버
+  * [삭삽 정렬](https://www.acmicpc.net/problem/13884) - 실버
+  * [덧셈 체인](https://www.acmicpc.net/problem/6590) - 실버
+
 + 1월 2주차(1월 11일)
   * [회전하는 큐](https://www.acmicpc.net/problem/1021) - 실버
   * [촌수계산](https://www.acmicpc.net/problem/2644) - 실버
