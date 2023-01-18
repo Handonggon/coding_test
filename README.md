@@ -1,5 +1,11 @@
 # 코딩테스트
 
++ 1월 4주차(1월 24일)
+  * [테이블 옮기기](https://www.acmicpc.net/problem/7348) - 실버
+  * [소수 부분 수열](https://www.acmicpc.net/problem/6884) - 실버
+  * [방문](https://www.acmicpc.net/problem/12968) - 실버
+  * [전구 장식](https://www.acmicpc.net/problem/5527) - 골드
+  * [레이저 통신](https://www.acmicpc.net/problem/6087) - 골드
 
 + 1월 3주차(1월 18일)
   * [사과 빨리 먹기](https://www.acmicpc.net/problem/26170) - 실버
