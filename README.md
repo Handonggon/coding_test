@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 2월 1주차(2월 1일)
+  * [칩 만들기](https://www.acmicpc.net/problem/2236) - 실버
+  * [숫자판 점프](https://www.acmicpc.net/problem/2210) - 실버
+  * [선물 교환](https://www.acmicpc.net/problem/1889) - 실버
+  * [직사각형으로 나누기](https://www.acmicpc.net/problem/1451) - 골드
+  * [컵라면](https://www.acmicpc.net/problem/1781) - 골드
+
 + 1월 4주차(1월 24일)
   * [테이블 옮기기](https://www.acmicpc.net/problem/7348) - 실버
   * [소수 부분 수열](https://www.acmicpc.net/problem/6884) - 실버
