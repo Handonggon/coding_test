@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 2월 1주차(2월 3일)
+  * [소수의 주기](https://www.acmicpc.net/problem/7546) - 실버
+  * [집합 숫자 표기법](https://www.acmicpc.net/problem/4848) - 실버
+  * [음하철도 구구팔](https://www.acmicpc.net/problem/1393) - 실버
+  * [뱀파이어 김상근 백작](https://www.acmicpc.net/problem/4461) - 골드
+  * [박스 채우기](https://www.acmicpc.net/problem/1493) - 골드
+
 + 2월 1주차(2월 1일)
   * [칩 만들기](https://www.acmicpc.net/problem/2236) - 실버
   * [숫자판 점프](https://www.acmicpc.net/problem/2210) - 실버
