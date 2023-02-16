@@ -1,6 +1,13 @@
 # 코딩테스트
 
-+ 2월 1주차(2월 3일)
++ 2월 4주차(2월 22일)
+  * [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) - 1단계
+  * [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) - 1단계
+  * [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085) - 2단계
+  * [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807) - 2단계
+  * [숫자 타자 대회](https://school.programmers.co.kr/learn/courses/30/lessons/136797) - 3단계
+
++ 2월 3주차(2월 15일)
   * [소수의 주기](https://www.acmicpc.net/problem/7546) - 실버
   * [집합 숫자 표기법](https://www.acmicpc.net/problem/4848) - 실버
   * [음하철도 구구팔](https://www.acmicpc.net/problem/1393) - 실버
