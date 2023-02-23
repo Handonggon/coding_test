@@ -1,6 +1,13 @@
 # 코딩테스트
 
 + 2월 4주차(2월 22일)
+  * [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) - 1단계
+  * [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) - 1단계
+  * [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) - 2단계
+  * [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354) - 2단계
+  * [등대](https://school.programmers.co.kr/learn/courses/30/lessons/133500) - 3단계
+
++ 2월 4주차(2월 22일)
   * [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) - 1단계
   * [푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240) - 1단계
   * [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085) - 2단계
