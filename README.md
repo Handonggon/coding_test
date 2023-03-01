@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 3월 2주차(2월 22일)
+  * [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128) - 1단계
+  * [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108) - 1단계
+  * [유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652) - 2단계
+  * [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127) - 2단계
+  * [고고학 최고의 발견](https://school.programmers.co.kr/learn/courses/30/lessons/131702) - 3단계
+
 + 2월 4주차(2월 22일)
   * [기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798) - 1단계
   * [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267) - 1단계
