@@ -1,6 +1,13 @@
 # 코딩테스트
 
-+ 3월 2주차(2월 22일)
++ 3월 3주차(3월 16
+  * [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) - 1단계
+  * [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/140108) - 1단계
+  * [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993) - 2단계
+  * [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265) - 2단계
+  * [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365) - 3단계
+
++ 3월 2주차(3월 09일)
   * [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128) - 1단계
   * [문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108) - 1단계
   * [유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652) - 2단계
