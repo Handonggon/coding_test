@@ -1,6 +1,6 @@
 # 코딩테스트
 
-+ 3월 3주차(3월 16
++ 3월 3주차(3월 16일)
   * [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) - 1단계
   * [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/140108) - 1단계
   * [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993) - 2단계
