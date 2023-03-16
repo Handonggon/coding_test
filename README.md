@@ -1,6 +1,13 @@
 # 코딩테스트
 
 + 3월 3주차(3월 16일)
+  * [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) - 1단계
+  * [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) - 1단계
+  * [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) - 2단계
+  * [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) - 2단계
+  * [표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367) - 3단계
+
++ 3월 3주차(3월 16일)
   * [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) - 1단계
   * [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) - 1단계
   * [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993) - 2단계
