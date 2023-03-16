@@ -1,3 +1,5 @@
+# 분할정복
+'''
 import sys
 input = sys.stdin.readline
 
@@ -25,3 +27,23 @@ def division(l, w, h):
 
 answer = division(length, width, height)
 print(answer) if answer > -1 else print(-1)
+'''
+# 그리디 알고리즘
+import sys
+input = sys.stdin.readline
+
+length, width, height = map(int, input().split())
+n = int(input())
+cube = [tuple(map(int, input().split())) for _ in range(n)]
+cube.sort(reverse=True)
+
+answer, total = 0, 0
+for (index, cnt) in cube: 
+    total *= 8
+    T = pow(2, index)
+    limit = min(cnt, (((length // T) * (width // T) * (height // T)) - total))
+
+    answer += limit
+    total += limit
+
+print(answer) if total == (length * width * height) else print(-1)
