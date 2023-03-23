@@ -1,6 +1,13 @@
 # 코딩테스트
 
-+ 3월 3주차(3월 16일)
++ 3월 3주차(3월 29일)
+  * [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586) - 1단계
+  * [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) - 1단계
+  * [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) - 2단계
+  * [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107) - 2단계
+  * [부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266) - 3단계
+
++ 3월 3주차(3월 23일)
   * [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) - 1단계
   * [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) - 1단계
   * [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) - 2단계
