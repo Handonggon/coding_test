@@ -1,13 +1,20 @@
 # 코딩테스트
 
-+ 3월 3주차(3월 29일)
++ 4월 1주차(4월 5일)
+  * [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) - 1단계
+  * [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502) - 1단계
+  * [당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198) - 2단계
+  * [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) - 2단계
+  * [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988) - 3단계
+
++ 3월 5주차(3월 29일)
   * [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586) - 1단계
   * [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994) - 1단계
   * [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) - 2단계
   * [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107) - 2단계
   * [부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266) - 3단계
 
-+ 3월 3주차(3월 23일)
++ 3월 4주차(3월 23일)
   * [바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990) - 1단계
   * [가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086) - 1단계
   * [덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) - 2단계
