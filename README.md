@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 4월 2주차(4월 13일)
+  * [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871) - 1단계
+  * [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) - 2단계
+  * [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) - 2단계
+  * [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996) - 2단계
+  * [2차원 동전 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/131703) - 3단계
+
 + 4월 1주차(4월 5일)
   * [옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499) - 1단계
   * [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502) - 1단계
