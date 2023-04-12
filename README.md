@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 4월 1주차(4월 20일)
+  * [명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477) - 1단계
+  * [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927) - 2단계
+  * [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130) - 2단계
+  * [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540) - 2단계
+  * [억억단을 외우자](https://school.programmers.co.kr/learn/courses/30/lessons/138475) - 3단계
+
 + 4월 2주차(4월 13일)
   * [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871) - 1단계
   * [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) - 2단계
