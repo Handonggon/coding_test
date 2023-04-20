@@ -1,6 +1,13 @@
 # 코딩테스트
 
-+ 4월 1주차(4월 20일)
++ 4월 4주차(4월 27일)
+  * [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) - 1단계
+  * [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) - 2단계
+  * [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538) - 2단계
+  * [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704) - 2단계
+  * [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995) - 3단계
+
++ 4월 3주차(4월 20일)
   * [명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477) - 1단계
   * [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927) - 2단계
   * [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130) - 2단계
