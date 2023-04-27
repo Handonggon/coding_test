@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 5월 1주차(5월 4일)
+  * [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) - 1단계
+  * [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187) - 2단계
+  * [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188) - 2단계
+  * [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585) - 2단계
+  * [표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366) - 3단계
+
 + 4월 4주차(4월 27일)
   * [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705) - 1단계
   * [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) - 2단계
