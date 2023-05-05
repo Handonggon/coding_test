@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 5월 2주차(5월 11일)
+  * [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) - 1단계
+  * [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) - 2단계
+  * [유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652) - 2단계
+  * [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239) - 2단계
+  * [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129) - 3단계
+
 + 5월 1주차(5월 4일)
   * [추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963) - 1단계
   * [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187) - 2단계
