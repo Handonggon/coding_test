@@ -1,5 +1,11 @@
 # 코딩테스트
 
++ 5월 4주차(5월 25일)
+  * [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) - 2단계
+  * [아방가르드 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/181186) - 3단계
+  * [쌍둥이 빌딩 숲](https://school.programmers.co.kr/learn/courses/30/lessons/140105) - 4단계
+  * [사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843) - 4단계
+
 + 5월 2주차(5월 11일)
   * [공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928) - 1단계
   * [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) - 2단계
