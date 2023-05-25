@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 6월 1주차(6월 1일)
+  * [등수 매기기](https://www.acmicpc.net/problem/2012) - 실버
+  * [바닥 장식](https://www.acmicpc.net/problem/1388) - 실버
+  * [소트 게임](https://www.acmicpc.net/problem/1327) - 골드
+  * [오영식의 보물](https://www.acmicpc.net/problem/1631) - 골드
+  * [이중우선순위큐](https://github.com/Handonggon/coding_test/edit/main/README.md) - 3단계
+
 + 5월 4주차(5월 25일)
   * [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) - 2단계
   * [아방가르드 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/181186) - 3단계
