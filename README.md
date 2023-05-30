@@ -5,7 +5,7 @@
   * [바닥 장식](https://www.acmicpc.net/problem/1388) - 실버
   * [소트 게임](https://www.acmicpc.net/problem/1327) - 골드
   * [오영식의 보물](https://www.acmicpc.net/problem/1631) - 골드
-  * [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) - 3단계
+  * [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) - 3단계 [https://www.acmicpc.net/problem/7662]
 
 + 5월 4주차(5월 25일)
   * [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870) - 2단계
