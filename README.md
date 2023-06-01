@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 6월 2주차(6월 8일)
+  * [기타콘서트](https://www.acmicpc.net/problem/1497) - 실버
+  * [문자열 교환](https://www.acmicpc.net/problem/1522) - 실버
+  * [축구](https://www.acmicpc.net/problem/1344) - 골드
+  * [비즈 공예](https://www.acmicpc.net/problem/1301) - 골드
+  * [순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191) - 3단계
+
 + 6월 1주차(6월 1일)
   * [등수 매기기](https://www.acmicpc.net/problem/2012) - 실버
   * [바닥 장식](https://www.acmicpc.net/problem/1388) - 실버
