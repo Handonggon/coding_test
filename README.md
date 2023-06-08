@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 6월 3주차(6월 15일)
+  * [베스트셀러](https://www.acmicpc.net/problem/1302) - 실버
+  * [크로스워드](https://www.acmicpc.net/problem/1706) - 실버
+  * [자리수로 나누기](https://www.acmicpc.net/problem/1490) - 골드
+  * [P배열](https://www.acmicpc.net/problem/1566) - 골드
+  * [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) - 3단계
+
 + 6월 2주차(6월 8일)
   * [기타콘서트](https://www.acmicpc.net/problem/1497) - 실버
   * [문자열 교환](https://www.acmicpc.net/problem/1522) - 실버
