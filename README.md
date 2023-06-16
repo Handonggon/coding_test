@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 6월 4주차(6월 2일)
+  * [3의 제곱](https://www.acmicpc.net/problem/4312) - 실버
+  * [타일 위의 대각선](https://www.acmicpc.net/problem/2168) - 실버
+  * [다이어그램과 태블로](https://www.acmicpc.net/problem/9646) - 골드
+  * [우주신과의 교감](https://www.acmicpc.net/problem/1774) - 골드
+  * [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) - 3단계
+
 + 6월 3주차(6월 15일)
   * [베스트셀러](https://www.acmicpc.net/problem/1302) - 실버
   * [크로스워드](https://www.acmicpc.net/problem/1706) - 실버
