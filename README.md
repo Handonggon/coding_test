@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 6월 5주차(6월 29일)
+  * [에디터](https://www.acmicpc.net/problem/1406) - 실버
+  * [금민수의 개수](https://www.acmicpc.net/problem/1527) - 실버
+  * [문자 해독](https://www.acmicpc.net/problem/1593) - 골드
+  * [두 스트링 마스크](https://www.acmicpc.net/problem/1361) - 골드
+  * [진욱이의 농장](https://www.acmicpc.net/problem/1460) - 골드
+
 + 6월 4주차(6월 2일)
   * [3의 제곱](https://www.acmicpc.net/problem/4312) - 실버
   * [타일 위의 대각선](https://www.acmicpc.net/problem/2168) - 실버
