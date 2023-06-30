@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 7월 1주차(7월 6일)
+  * [병든 나이트](https://www.acmicpc.net/problem/1783) - 실버
+  * [효율적인 해킹](https://www.acmicpc.net/problem/1325) - 실버
+  * [도로의 개수](https://www.acmicpc.net/problem/1577) - 골드
+  * [공격](https://www.acmicpc.net/problem/1430) - 골드
+  * [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) - 골드
+
 + 6월 5주차(6월 29일)
   * [에디터](https://www.acmicpc.net/problem/1406) - 실버
   * [금민수의 개수](https://www.acmicpc.net/problem/1527) - 실버
