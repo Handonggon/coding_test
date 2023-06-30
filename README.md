@@ -1,5 +1,26 @@
 # 코딩테스트
 
++ 6월 5주차(6월 29일)
+  * [에디터](https://www.acmicpc.net/problem/1406) - 실버
+  * [금민수의 개수](https://www.acmicpc.net/problem/1527) - 실버
+  * [문자 해독](https://www.acmicpc.net/problem/1593) - 골드
+  * [두 스트링 마스크](https://www.acmicpc.net/problem/1361) - 골드
+  * [진욱이의 농장](https://www.acmicpc.net/problem/1460) - 골드
+
++ 6월 4주차(6월 2일)
+  * [3의 제곱](https://www.acmicpc.net/problem/4312) - 실버
+  * [타일 위의 대각선](https://www.acmicpc.net/problem/2168) - 실버
+  * [다이어그램과 태블로](https://www.acmicpc.net/problem/9646) - 골드
+  * [우주신과의 교감](https://www.acmicpc.net/problem/1774) - 골드
+  * [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927) - 3단계
+
++ 6월 3주차(6월 15일)
+  * [베스트셀러](https://www.acmicpc.net/problem/1302) - 실버
+  * [크로스워드](https://www.acmicpc.net/problem/1706) - 실버
+  * [자리수로 나누기](https://www.acmicpc.net/problem/1490) - 골드
+  * [P배열](https://www.acmicpc.net/problem/1566) - 골드
+  * [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) - 3단계
+
 + 6월 2주차(6월 8일)
   * [기타콘서트](https://www.acmicpc.net/problem/1497) - 실버
   * [문자열 교환](https://www.acmicpc.net/problem/1522) - 실버
