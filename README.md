@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 7월 3주차(7월 20일)
+  * [쉬운 매췽](https://www.acmicpc.net/problem/2509) - 실버
+  * [본대 산책](https://www.acmicpc.net/problem/12849) - 실버
+  * [보석 도둑](https://www.acmicpc.net/problem/14232) - 실버
+  * [도미노 찾기](https://www.acmicpc.net/problem/1553) - 골드
+  * [골목길](https://www.acmicpc.net/problem/1738) - 골드
+
 + 7월 2주차(7월 13일)
   * [수 복원하기](https://www.acmicpc.net/problem/2312) - 실버
   * [나무꾼 이다솜](https://www.acmicpc.net/problem/1421) - 실버
