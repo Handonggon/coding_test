@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 7월 2주차(7월 13일)
+  * [수 복원하기](https://www.acmicpc.net/problem/2312) - 실버
+  * [나무꾼 이다솜](https://www.acmicpc.net/problem/1421) - 실버
+  * [동물원](https://www.acmicpc.net/problem/1309) - 실버
+  * [단어 만들기](https://www.acmicpc.net/problem/1148) - 골드
+  * [특정한 최단 경로](https://www.acmicpc.net/problem/1504) - 골드
+
 + 7월 1주차(7월 6일)
   * [병든 나이트](https://www.acmicpc.net/problem/1783) - 실버
   * [효율적인 해킹](https://www.acmicpc.net/problem/1325) - 실버
