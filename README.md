@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 7월 4주차(7월 03일)
+  * [쉬운 매췽](https://www.acmicpc.net/problem/2509) - 실버
+  * [충돌의 수](https://www.acmicpc.net/problem/24468) - 실버
+  * [대회 개최](https://www.acmicpc.net/problem/12915) - 실버
+  * [공의 충돌](https://www.acmicpc.net/problem/13249) - 골드
+  * [팬케이크 쌓기](https://www.acmicpc.net/problem/12744) - 골드
+
 + 7월 3주차(7월 20일)
   * [쉬운 매췽](https://www.acmicpc.net/problem/2509) - 실버
   * [본대 산책](https://www.acmicpc.net/problem/12849) - 실버
