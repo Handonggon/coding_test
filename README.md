@@ -1,6 +1,12 @@
 # 코딩테스트
 
-+ 7월 4주차(7월 03일)
++ 8월 1주차(8월 03일)
+  * [이항 쇼다운](https://www.acmicpc.net/problem/6591) - 실버
+  * [비밀번호](https://www.acmicpc.net/problem/13908) - 실버
+  * [출근](https://www.acmicpc.net/problem/13903) - 실버
+  * [준규와 사과](https://www.acmicpc.net/problem/5913) - 골드
+
++ 7월 4주차(7월 27일)
   * [쉬운 매췽](https://www.acmicpc.net/problem/2509) - 실버
   * [충돌의 수](https://www.acmicpc.net/problem/24468) - 실버
   * [대회 개최](https://www.acmicpc.net/problem/12915) - 실버
