@@ -1,6 +1,13 @@
 # 코딩테스트
 
 + 8월 1주차(8월 03일)
+  * [로또](https://www.acmicpc.net/problem/6603) - 실버
+  * [트리 순회](https://www.acmicpc.net/problem/1991) - 실버
+  * [트럭](https://www.acmicpc.net/problem/13335) - 실버
+  * [집합의 표현](https://www.acmicpc.net/problem/1717) - 골드
+  * [리모컨](https://www.acmicpc.net/problem/1107) - 골드
+   
++ 8월 1주차(8월 03일)
   * [이항 쇼다운](https://www.acmicpc.net/problem/6591) - 실버
   * [비밀번호](https://www.acmicpc.net/problem/13908) - 실버
   * [출근](https://www.acmicpc.net/problem/13903) - 실버
