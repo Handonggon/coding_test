@@ -1,6 +1,13 @@
 # 코딩테스트
 
-+ 8월 1주차(8월 03일)
++ 8월 3주차(8월 17일)
+  * [숨바꼭질](https://www.acmicpc.net/problem/1697) - 실버
+  * [암호 만들기](https://www.acmicpc.net/problem/1759) - 골드
+  * [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) - 골드
+  * [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) - 골드
+  * [트리의 지름](https://www.acmicpc.net/problem/1167) - 골드
+
++ 8월 2주차(8월 10일)
   * [로또](https://www.acmicpc.net/problem/6603) - 실버
   * [트리 순회](https://www.acmicpc.net/problem/1991) - 실버
   * [트럭](https://www.acmicpc.net/problem/13335) - 실버
