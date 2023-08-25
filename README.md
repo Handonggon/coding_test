@@ -1,11 +1,17 @@
 # 코딩테스트
 
++ 8월 5주차(8월 31일)
+  * [Z](https://www.acmicpc.net/problem/1074) - 실버
+  * [도시 분할 계획](https://www.acmicpc.net/problem/1647) - 골드
+  * [소수의 연속합](https://www.acmicpc.net/problem/1644) - 골드
+  * [웜홀](https://www.acmicpc.net/problem/1865) - 골드
+  * [가운데를 말해요](https://www.acmicpc.net/problem/1655) - 골드
+
 + 8월 4주차(8월 24일)
   * [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) - 실버
   * [최소비용 구하기](https://www.acmicpc.net/problem/1916) - 골드
   * [알고스팟](https://www.acmicpc.net/problem/1261) - 골드
   * [파티](https://www.acmicpc.net/problem/1238) - 골드
-  * [트리의 지름](https://www.acmicpc.net/problem/1167) - 골드
 
 + 8월 3주차(8월 17일)
   * [숨바꼭질](https://www.acmicpc.net/problem/1697) - 실버
