@@ -1,0 +1,28 @@
+import sys
+input = sys.stdin.readline
+
+[V, E] = map(int, input().split())
+parent = [v for v in range(V + 1)]
+[A, B, C] = [0, 1, 2]
+info = sorted([list(map(int, input().split())) for _ in range(E)], key = lambda item: item[C])
+
+def find(a):
+    if parent[a] == a:
+        return a
+    return find(parent[a])
+
+def union(a, b):
+    pA = find(a)
+    pB = find(b)
+    parent[min(pA, pB)] = max(pA, pB)
+
+answer = []
+for [a, b, c] in info:
+    if find(a) == find(b):
+        continue
+    union(a, b)
+    answer.append(c)
+
+    if answer == V - 1:
+        break;
+print(sum(answer))

@@ -1,0 +1,16 @@
+import sys
+from itertools import combinations, permutations
+input = sys.stdin.readline
+
+gather = set(['a', 'e', 'i', 'o', 'u'])
+[L, C] = map(int, input().split())
+alpha = sorted(input().strip().split(" "))
+
+answer = []
+for s in list(combinations(alpha, L)):
+    count = 0
+    for c in s:
+        count += (c in gather)
+    if 1 <= count <= L - 2:
+        answer.append(s)
+print(*map(lambda item: ''.join(item), answer), sep='\n')
