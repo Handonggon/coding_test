@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 9월 2주차(9월 10일)
+  * [전쟁 - 전투](https://www.acmicpc.net/problem/1303) - 실버
+  * [차트](https://www.acmicpc.net/problem/1239) - 골드
+  * [오영식의 보물](https://www.acmicpc.net/problem/1631) - 골드
+  * [다리 만들기](https://www.acmicpc.net/problem/2146) - 골드
+  * [보석 모으기](https://www.acmicpc.net/problem/1480) - 골드
+
 + 8월 5주차(8월 31일)
   * [Z](https://www.acmicpc.net/problem/1074) - 실버
   * [도시 분할 계획](https://www.acmicpc.net/problem/1647) - 골드
