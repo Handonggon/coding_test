@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 9월 3주차(9월 17일)
+  * [가장 가까운 세 사람의 심리적 거리](https://www.acmicpc.net/problem/20529) - 실버
+  * [연속합 2](https://www.acmicpc.net/problem/13398) - 골드
+  * [숨바꼭질 3](https://www.acmicpc.net/problem/13549) - 골드
+  * [List of Unique Numbers](https://www.acmicpc.net/problem/13144) - 골드
+  * [과제](https://www.acmicpc.net/problem/13904) - 골드
+
 + 9월 2주차(9월 10일)
   * [전쟁 - 전투](https://www.acmicpc.net/problem/1303) - 실버
   * [차트](https://www.acmicpc.net/problem/1239) - 골드
