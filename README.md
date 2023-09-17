@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 9월 4주차(9월 24일)
+  * [1로 만들기 2](https://www.acmicpc.net/problem/12852) - 실버
+  * [상범 빌딩](https://www.acmicpc.net/problem/6593) - 골드
+  * [평범한 배낭](https://www.acmicpc.net/problem/12865) - 골드
+  * [카드 정렬하기](https://www.acmicpc.net/problem/1715) - 골드
+  * [줄 세우기](https://www.acmicpc.net/problem/7570) - 골드
+
 + 9월 3주차(9월 17일)
   * [가장 가까운 세 사람의 심리적 거리](https://www.acmicpc.net/problem/20529) - 실버
   * [연속합 2](https://www.acmicpc.net/problem/13398) - 골드
