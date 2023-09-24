@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 10월 1주차(10월 8일)
+  * [포도주 시식](https://www.acmicpc.net/problem/2156) - 실버
+  * [압축](https://www.acmicpc.net/problem/1662) - 골드
+  * [Fly me to the Alpha Centauri](https://www.acmicpc.net/problem/1011) - 골드
+  * [단어 수학](https://www.acmicpc.net/problem/1339) - 골드
+  * [겹치는 선분](https://www.acmicpc.net/problem/1689) - 골드
+
 + 9월 4주차(9월 24일)
   * [1로 만들기 2](https://www.acmicpc.net/problem/12852) - 실버
   * [상범 빌딩](https://www.acmicpc.net/problem/6593) - 골드
