@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 10월 3주차(10월 22일)
+  * [안전 영역](https://www.acmicpc.net/problem/2468) - 실버
+  * [1학년](https://www.acmicpc.net/problem/5557) - 골드
+  * [옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198) - 골드
+  * [전화번호 목록](https://www.acmicpc.net/problem/5052) - 골드
+  * [해킹](https://www.acmicpc.net/problem/10282) - 골드
+
 + 10월 1주차(10월 8일)
   * [포도주 시식](https://www.acmicpc.net/problem/2156) - 실버
   * [압축](https://www.acmicpc.net/problem/1662) - 골드
