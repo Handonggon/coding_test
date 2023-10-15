@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 10월 4주차(10월 22일)
+  * [나이트의 이동](https://www.acmicpc.net/problem/7562) - 실버
+  * [로봇 청소기](https://www.acmicpc.net/problem/14503) - 골드
+  * [빗물](https://www.acmicpc.net/problem/14719) - 골드
+  * [구간 나누기 2](https://www.acmicpc.net/problem/13397) - 골드
+  * [회사 문화 1](https://www.acmicpc.net/problem/14267) - 골드
+
 + 10월 3주차(10월 22일)
   * [안전 영역](https://www.acmicpc.net/problem/2468) - 실버
   * [1학년](https://www.acmicpc.net/problem/5557) - 골드
