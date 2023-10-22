@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 10월 5주차(10월 29일)
+  * [피보나치](https://www.acmicpc.net/problem/9009) - 실버
+  * [넴모넴모 (Easy)](https://www.acmicpc.net/problem/14712) - 골드
+  * [상어 초등학교](https://www.acmicpc.net/problem/21608) - 골드
+  * [리조트](https://www.acmicpc.net/problem/13302) - 골드
+  * [불우이웃돕기](https://www.acmicpc.net/problem/1414) - 골드
+
 + 10월 4주차(10월 22일)
   * [나이트의 이동](https://www.acmicpc.net/problem/7562) - 실버
   * [로봇 청소기](https://www.acmicpc.net/problem/14503) - 골드
