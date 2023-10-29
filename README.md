@@ -1,5 +1,10 @@
 # 코딩테스트
 
++ 11월 1주차(11월 5일)
+  * [상담원 인원](https://school.programmers.co.kr/learn/courses/30/lessons/214288) - Lv.3
+  * [에어컨](https://school.programmers.co.kr/learn/courses/30/lessons/214289) - Lv.3
+  * [경사로의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/214290) - Lv.4
+
 + 10월 5주차(10월 29일)
   * [피보나치](https://www.acmicpc.net/problem/9009) - 실버
   * [넴모넴모 (Easy)](https://www.acmicpc.net/problem/14712) - 골드
