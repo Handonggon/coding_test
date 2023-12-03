@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 12월 2주차(12월 10일)
+  * [유기농 배추](https://www.acmicpc.net/problem/1012) - 실버
+  * [물병](https://www.acmicpc.net/problem/1052) - 실버
+  * [줄어드는 수](https://www.acmicpc.net/problem/1174) - 골드
+  * [다이어트](https://www.acmicpc.net/problem/1484) - 골드
+  * [이분 그래프](https://www.acmicpc.net/problem/1707) - 골드
+
 + 11월 1주차(11월 5일)
   * [상담원 인원](https://school.programmers.co.kr/learn/courses/30/lessons/214288) - Lv.3
   * [에어컨](https://school.programmers.co.kr/learn/courses/30/lessons/214289) - Lv.3
