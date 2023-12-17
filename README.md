@@ -1,5 +1,12 @@
 # 코딩테스트
 
++ 1월 1주차(1월 7일)
+  * [쿼드트리](https://www.acmicpc.net/problem/1992) - 실버
+  * [기타 레슨](https://www.acmicpc.net/problem/2343) - 실버
+  * [복날](https://www.acmicpc.net/problem/1686) - 골드
+  * [Guess](https://www.acmicpc.net/problem/1248) - 골드
+  * [꼬인 전깃줄](https://www.acmicpc.net/problem/1365) - 골드
+
 + 12월 2주차(12월 10일)
   * [유기농 배추](https://www.acmicpc.net/problem/1012) - 실버
   * [물병](https://www.acmicpc.net/problem/1052) - 실버
